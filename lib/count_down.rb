@@ -2,7 +2,7 @@
 
 ctr = 10;
 while (ctr > 0) do 
-  puts "${ctr} \n"
+  puts "${ctr}"
   ctr -= 1 
 end
 
